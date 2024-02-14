@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer/Pursuer_AIController.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer/EAIState.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/Health_Bar.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Health_Pickup.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/GameOver.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/Scorecard.uasset",
+				"C:/Users/uttka/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pursuer/BP_Pursuer.uasset"
+			]
+		}
+	]
+}
